@@ -1,0 +1,8 @@
+@CHARSET "EUC-KR";
+table{
+	border: 1px solid black;
+}
+
+table th{
+	border: 1p solid black;
+}
